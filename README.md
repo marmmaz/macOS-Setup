@@ -17,12 +17,19 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
   
 <h3>Communication</h3>
 <ul>
+    <li>Colloquy: IRC Client - https://github.com/colloquy/colloquy</li>
     <li>Discord: Feauture packed <b>VoIP</b> client with endless interesting serves - https://discord.com/</li>
     <li>Microsoft Outlook: <b>E-mail</b> client of choice - https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook</li>
     <li>Signal: <b>End-to-end encrypted</b> messaging service - https://signal.org/#signal</li>
     <li>Whatsapp Desktop: macOS <b>Whatsapp</b> wrapper - https://www.whatsapp.com/download</li>
 </ul>
 
+<h3>Creative</h3>
+<ul>
+   <li>Adobe Illustrator:
+   <li>Adobe InDesign:
+   <li>Adobe Photoshop:
+   
 <h3>Productivity</h3>
   <ul>
     <li> <a href="#alfred-1">Alfred 4 (setup):</a> A <b>superior</b> Spotlight replacment - https://www.alfredapp.com/</li>
@@ -46,8 +53,11 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
     <li>A Better Finder Rename 11: A batch file <b>renamer</b> - https://www.publicspace.net/ABetterFinderRename/index.html</li>
     <li>Amphetamine: A <b>keep-wake</b> app for macOS - https://apps.apple.com/us/app/amphetamine/id937984704?mt=12</li>
     <li>AppCleaner: A <b>deep</b> cleaning app uninstaller - https://freemacsoft.net/appcleaner/</li>
+    <li>Bartender 4: Hide menubar items - https://www.macbartender.com/</li>
     <li>BetterDiscord: Customize Discord & install plugins: https://betterdiscord.net</li>
     <li>cDock: A dock <b>customizer</b> - https://www.macenhance.com/cdock</li>
+    <li>Dropbox: Cloud storage - https://dropbox.com
+    <li>Google Drive: Cloud Storage - https://www.google.com/intl/en_in/drive/</li>
     <li>Keka: Data <b>decompression utility</b> - https://www.keka.io/en/</li>
     <li>Monosnap: A <b>supercharged</b> screenshot tool - https://monosnap.com/</li>
     <li>Numi: An all-in-one <b>calculator & converter</b> that understands text based questions - https://numi.app/</li>
@@ -55,6 +65,13 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
     <li>PopClip: An iOS style <b>copy/paste and more</b> shortcut that appears when text is selected - https://pilotmoon.com/popclip/</li>
     <li>SMCFanControler: An open source <b>fan speed</b> controller - https://github.com/hholtmann/smcFanControl</li>
   </ul>
+  
+  <h3>Writing</h3>
+  <ul>
+  <li>Apple Notes: My note taking app of choice</li>
+  <li>Atom: Open Source text & code editor - https://atom.io/</li>
+  <li>Microsoft Word: My word proccessor of choice - https://www.microsoft.com/en/microsoft-365/word</li>
+  <li>Typora: Markdown editor - https://typora.io/</li>
   
 <h3 id="alfred-1">Alfred 4 Setup</h3>
 <p>Here are the workflows (plugins) I use:</p>
