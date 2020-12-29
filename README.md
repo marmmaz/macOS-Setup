@@ -9,6 +9,12 @@ If it makes sense, i'll eventually setup a website to properly showcase my setup
 
 <h2>Software</h2>
 
+<h3>Browsers</h3>
+  <ul>
+  <li>Brave: A chromium based browser - https://brave.com/</li>
+  <li>Firefox: The king of browsers - https://www.mozilla.org/en-US/firefox/new/</li>
+  </ul>
+
 <h3>Productivity</h3>
   <ul>
   <li>Alfred 4: A <b>superior</b> Spotlight replacment - https://www.alfredapp.com/</li>
