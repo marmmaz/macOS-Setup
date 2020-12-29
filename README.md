@@ -26,7 +26,7 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
 
 <h3>Productivity</h3>
   <ul>
-  <li>Alfred 4: A <b>superior</b> Spotlight replacment - https://www.alfredapp.com/</li> [jumping to](#a-name)
+  <li <a href="alfred-1">Alfred 4: A <b>superior</b> Spotlight replacment - https://www.alfredapp.com/</li>
     <li>AltTab: An <b>open source</b>, windows style tab switcher - https://alt-tab-macos.netlify.app/</li>
     <li>BetterTouchTool: An <b>indispensible</b> input modifier allowing you to take advantage of gestures+hotkeys - https://folivora.ai/</li>
     <li>Dropzone 4: A menubar drag and drop <b>enhancer</b> - https://aptonic.com/</li>
@@ -56,4 +56,4 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
     <li>The Unarchiver: Data <b>decompression</b> utility - https://theunarchiver.com/</li>
   </ul>
   
-  #Alfred Setup {#a-link}
+<h3 id="alfred-1">Alfred 1</h3>
