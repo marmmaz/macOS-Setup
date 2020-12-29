@@ -56,4 +56,24 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
     <li>The Unarchiver: Data <b>decompression</b> utility - https://theunarchiver.com/</li>
   </ul>
   
-<h3 id="alfred-1">Alfred 1</h3>
+<h3 id="alfred-1">Alfred 4 Setup</h3>
+<p>Here are the workflows (plugins) I use</p>
+<ul>
+  <li>Aphetamine Switch: Toggle Amphetamine on/off</li>
+  <li>Bluetooth Connect: Quick connect to preconfigured bluetooth devices</li>
+  <li>Bluetooth Control: Toggle bluetooth on/off<li>
+  <li>Convert: All-in-one converter (units, currency, etc.)</li>
+  <li>Directions: Pull up directions to x from current location</li>
+  <li>Display Brightness: Display brightness control % control</li>
+  <li>Faker: Generate fake data (email, names, address, text, etc.)</li>
+  <li>Fixum: Fixes broken workflows</li>
+  <li>Kill Process: Quickly kill proccess'</li>
+  <li>Last Changed Files: View last changed files</li>
+  <li>Lorem Lpsum: Text generator</li>
+  <li>Movie and TV Show Search: Search Movies & TV Shows</li>
+  <li>Search Notes: Search within Apple Notes</li>
+  <li>TempraryEmail: Open up a temporary email address</li>
+  <li>TimeZones: View different timezones</li>
+  <li>Uninstall with AppCleaner: Quickly uninstall apps with AppCleaner</li>
+  <li>Wi-Fi: Toggle Wi-Fi on/off</li>
+ </ul>
