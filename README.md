@@ -10,13 +10,35 @@ If it makes sense, i'll eventually setup a website to properly showcase my setup
 <h2>Software</h2>
 
 <h3>Productivity</h3>
-<ul>
+  <ul>
   <li>Alfred 4: A <b>superior</b> Spotlight replacment - https://www.alfredapp.com/</li>
   <li>AltTab: An <b>open source</b>, windows style tab switcher - https://alt-tab-macos.netlify.app/</li>
   <li>BetterTouchTool: An <b>indispensible</b> input modifier allowing you to take advantage of gestures+hotkeys - https://folivora.ai/</li>
+  <li>Dropzone 4: A menubar drag and drop <b>enhancer</b> - https://aptonic.com/</li>
+  <li>Grid: A window manager with <b>gesture</b> support - https://macgrid.app/</li>
   </ul>
   
- <h3>Password Managment</h3>
+<h3>
+<h3>Security</h3>
   <ul>
-  <li>Bitwarden: Opensource password manager - https://bitwarden.com/</li>
+  <li>Bitwarden: Opensource <b>password</b> manager - https://bitwarden.com/</li>
+  <li>Micro Snitch: A microphone & camera activity <b>monitor</b> - https://www.obdev.at/products/microsnitch/index.html</li>
+  <li>NordVPN: A <b>VPN</b> service - https://nordvpn.com</li>
+  <li>Windscribe: VPN service with <b>free 10gb/month</b> - https://windscribe.com</li>
   </ul>
+  
+  <h3>Utilities</h3>
+  <ul>
+  <li>A Better Finder Rename 11: A batch file <b>renamer</b> - https://www.publicspace.net/ABetterFinderRename/index.html</li>
+  <li>Amphetamine: A <b>keep-wake/b> app for macOS - https://apps.apple.com/us/app/amphetamine/id937984704?mt=12</li>
+  <li>AppCleaner: A <b>deep/b> cleaning app uninstaller - https://freemacsoft.net/appcleaner/</li>
+  <li>cDock: A dock <b>customizer/b> - https://www.macenhance.com/cdock</li>
+  <li>Monosnap: A <b>supercharged</b> screenshot tool - https://monosnap.com/</li>
+  <li>Numi: An all-in-one calculator & converter that understands text based questions - https://numi.app/</li>
+  <li>OpenInTerminalLite: Open source finder menu shortcut that <b>opens current directory</b> in Teminal - https://github.com/Ji4n1ng/OpenInTerminal</li>
+  <li>PopClip: An iOS style <b>copy/paste and more</b> shortcut that appears when text is selected - https://pilotmoon.com/popclip/</li>
+  <li>SMCFanControler: An open source <b>fan speed</b> controller - https://github.com/hholtmann/smcFanControl<li>
+  <li>The Unarchiver: Data <b>decompression</b> utility - https://theunarchiver.com/</li>
+  <li>
+  
+  
