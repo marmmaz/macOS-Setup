@@ -4,7 +4,7 @@
 
 The purpose of this repo is to have a detailed *backup* of all the software and tweaks I use so that if/when I upgrade my mac, i'll know *exactly what to do.*
 
-This is odd, but if you're so inclined feel free to buy me a cup of coffee @ .
+This is odd, but if you're so inclined feel free to buy me a cup of coffee -> https://www.buymeacoffee.com/marmmaz
 If it makes sense, i'll eventually setup a website to properly showcase my setup.
 
 <h2>Software</h2>
