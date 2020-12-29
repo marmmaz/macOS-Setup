@@ -21,6 +21,7 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
     <li>Microsoft Outlook: <b>E-mail</b> client of choice - https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook</li>
     <li>Signal: <b>End-to-end encrypted</b> messaging service - https://signal.org/#signal</li>
     <li>Whatsapp Desktop: macOS <b>Whatsapp</b> wrapper - https://www.whatsapp.com/download</li>
+</ul>
   
 
 <h3>Productivity</h3>
