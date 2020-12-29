@@ -35,7 +35,7 @@ If it makes sense, i'll eventually setup a website to properly showcase my setup
   <li>cDock: A dock <b>customizer</b> - https://www.macenhance.com/cdock</li>
   <li>Monosnap: A <b>supercharged</b> screenshot tool - https://monosnap.com/</li>
   <li>Numi: An all-in-one <b>calculator & converter</b> that understands text based questions - https://numi.app/</li>
-  <li>OpenInTerminalLite: Open source finder menu shortcut that <b>opens current directory</b> in Teminal - https://github.com/Ji4n1ng/OpenInTerminal</li>
+  <li>OpenInTerminalLite: Open source finder menu shortcut to <b>open current directory</b> in Teminal - https://github.com/Ji4n1ng/OpenInTerminal</li>
   <li>PopClip: An iOS style <b>copy/paste and more</b> shortcut that appears when text is selected - https://pilotmoon.com/popclip/</li>
   <li>SMCFanControler: An open source <b>fan speed</b> controller - https://github.com/hholtmann/smcFanControl<li>
   <li>The Unarchiver: Data <b>decompression</b> utility - https://theunarchiver.com/</li>
