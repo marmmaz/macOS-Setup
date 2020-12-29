@@ -10,4 +10,6 @@ If it makes sense, i'll eventually setup a website to properly showcase my setup
 <h2>Software</h2>
 
 <h3>Password Manger</h3>
-<ul>Bitwarden: Opensource password manager - https://bitwarden.com/<ul>
+  <ul>
+  <li>Bitwarden: Opensource password manager - https://bitwarden.com/</li>
+  </ul>
