@@ -22,7 +22,6 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
     <li>Signal: <b>End-to-end encrypted</b> messaging service - https://signal.org/#signal</li>
     <li>Whatsapp Desktop: macOS <b>Whatsapp</b> wrapper - https://www.whatsapp.com/download</li>
 </ul>
-  
 
 <h3>Productivity</h3>
   <ul>
@@ -47,13 +46,14 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
     <li>A Better Finder Rename 11: A batch file <b>renamer</b> - https://www.publicspace.net/ABetterFinderRename/index.html</li>
     <li>Amphetamine: A <b>keep-wake</b> app for macOS - https://apps.apple.com/us/app/amphetamine/id937984704?mt=12</li>
     <li>AppCleaner: A <b>deep</b> cleaning app uninstaller - https://freemacsoft.net/appcleaner/</li>
+    <li>BetterDiscord: Customize Discord & install plugins: https://betterdiscord.net</li>
     <li>cDock: A dock <b>customizer</b> - https://www.macenhance.com/cdock</li>
+    <li>Keka: Data <b>decompression utility</b> - https://www.keka.io/en/</li>
     <li>Monosnap: A <b>supercharged</b> screenshot tool - https://monosnap.com/</li>
     <li>Numi: An all-in-one <b>calculator & converter</b> that understands text based questions - https://numi.app/</li>
     <li>OpenInTerminalLite: Open source finder menu shortcut to <b>open current directory</b> in Teminal - https://github.com/Ji4n1ng/OpenInTerminal</li>
     <li>PopClip: An iOS style <b>copy/paste and more</b> shortcut that appears when text is selected - https://pilotmoon.com/popclip/</li>
     <li>SMCFanControler: An open source <b>fan speed</b> controller - https://github.com/hholtmann/smcFanControl</li>
-    <li>The Unarchiver: Data <b>decompression</b> utility - https://theunarchiver.com/</li>
   </ul>
   
 <h3 id="alfred-1">Alfred 4 Setup</h3>
