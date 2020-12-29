@@ -57,7 +57,7 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
   </ul>
   
 <h3 id="alfred-1">Alfred 4 Setup</h3>
-<p>Here are the workflows (plugins) I use</p>
+<p>Here are the workflows (plugins) I use:</p>
 <ul>
   <li>Aphetamine Switch: Toggle Amphetamine on/off.</li>
   <li>Bluetooth Connect: Quick connect to preconfigured bluetooth devices.</li>
