@@ -17,7 +17,7 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
   
 <h3>Communication</h3>
 <ul>
-    <li>Discord: Feauture packed <b>VoIP<b> client with endless interesting serves - https://discord.com/</li>
+    <li>Discord: Feauture packed <b>VoIP</b> client with endless interesting serves - https://discord.com/</li>
     <li>Microsoft Outlook: <b>E-mail</b> client of choice - https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook</li>
     <li>Signal: <b>End-to-end encrypted</b> messaging service - https://signal.org/#signal</li>
     <li>Whatsapp Desktop: macOS <b>Whatsapp</b> wrapper - https://www.whatsapp.com/download</li>
