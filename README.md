@@ -12,8 +12,11 @@ If it makes sense, i'll eventually setup a website to properly showcase my setup
 <h3>Productivity</h3>
 <ul>
   <li>Alfred 4: A <b>superior</b> Spotlight replacment - https://www.alfredapp.com/</li>
-  <li>AltTab: An **open source**, windows style tab switcher - https://alt-tab-macos.netlify.app/</li>
-  <li>BetterTouchTool: An **indispensible** input modifier allowing you to take advantage of gestures+hotkeys - https://folivora.ai/</li>
+  <li>AltTab: An <b>open source</b>, windows style tab switcher - https://alt-tab-macos.netlify.app/</li>
+  <li>BetterTouchTool: An <b>indispensible</b> input modifier allowing you to take advantage of gestures+hotkeys - https://folivora.ai/</li>
+  </ul>
+  
+ <h3>Password Managment</h3>
   <ul>
   <li>Bitwarden: Opensource password manager - https://bitwarden.com/</li>
   </ul>
