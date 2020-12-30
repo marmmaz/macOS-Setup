@@ -1,7 +1,5 @@
 # macOS-Setup
 
-<h1>My macOS setup</h1>
-
 The purpose of this file is to have a backup of my ideal macOS setup so that if/when I upgrade my mac, i'll know exactly what to do.
 
 <p>If it makes sense, i'll eventually create a website to properly showcase everything.<br>
