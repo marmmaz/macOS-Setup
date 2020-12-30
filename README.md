@@ -52,28 +52,28 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
 <h3>Security</h3>
   <ul>
     <li>Bitwarden: Opensource password anager - https://bitwarden.com/</li>
-    <li>Hosts File Adblock List: I use this list to <b>block ads system wide</b> - https://someonewhocares.org/hosts/</li>
-    <li>Micro Snitch: A microphone & camera activity <b>monitor</b> - https://www.obdev.at/products/microsnitch/index.html</li>
-    <li>NordVPN: A <b>VPN</b> service - https://nordvpn.com</li>
-    <li>Windscribe: VPN service with <b>free 10gb/month</b> - https://windscribe.com</li>
+    <li>Hosts File Adblock List: I use this list to block ads system wide - https://someonewhocares.org/hosts/</li>
+    <li>Micro Snitch: A microphone & camera activity monitor - https://www.obdev.at/products/microsnitch/index.html</li>
+    <li>NordVPN: A VPN service - https://nordvpn.com</li>
+    <li>Windscribe: VPN service with free 10gb/month - https://windscribe.com</li>
   </ul>
   
   <h3>Utilities</h3>
   <ul>
-    <li>A Better Finder Rename 11: A batch file <b>renamer</b> - https://www.publicspace.net/ABetterFinderRename/index.html</li>
-    <li>Amphetamine: A <b>keep-wake</b> app for macOS - https://apps.apple.com/us/app/amphetamine/id937984704?mt=12</li>
-    <li>AppCleaner: A <b>deep</b> cleaning app uninstaller - https://freemacsoft.net/appcleaner/</li>
+    <li>A Better Finder Rename 11: A batch file renamer - https://www.publicspace.net/ABetterFinderRename/index.html</li>
+    <li>Amphetamine: A keep-wake app for macOS - https://apps.apple.com/us/app/amphetamine/id937984704?mt=12</li>
+    <li>AppCleaner: A deep cleaning app uninstaller - https://freemacsoft.net/appcleaner/</li>
     <li>Bartender 4: Hide menubar items - https://www.macbartender.com/</li>
     <li>BetterDiscord: Customize Discord & install plugins: https://betterdiscord.net</li>
-    <li>cDock: A dock <b>customizer</b> - https://www.macenhance.com/cdock</li>
+    <li>cDock: A dock customizer - https://www.macenhance.com/cdock</li>
     <li>Dropbox: Cloud storage - https://dropbox.com
     <li>Google Drive: Cloud Storage - https://www.google.com/intl/en_in/drive/</li>
-    <li>Keka: Data <b>decompression utility</b> - https://www.keka.io/en/</li>
-    <li>Monosnap: A <b>supercharged</b> screenshot tool - https://monosnap.com/</li>
-    <li>Numi: An all-in-one <b>calculator & converter</b> that understands text based questions - https://numi.app/</li>
-    <li>OpenInTerminalLite: Open source finder menu shortcut to <b>open current directory</b> in Teminal - https://github.com/Ji4n1ng/OpenInTerminal</li>
-    <li>PopClip: An iOS style <b>copy/paste and more</b> shortcut that appears when text is selected - https://pilotmoon.com/popclip/</li>
-    <li>SMCFanControler: An open source <b>fan speed</b> controller - https://github.com/hholtmann/smcFanControl</li>
+    <li>Keka: Data decompression utility - https://www.keka.io/en/</li>
+    <li>Monosnap: A supercharged screenshot tool - https://monosnap.com/</li>
+    <li>Numi: An all-in-one calculator & converter that understands text based questions - https://numi.app/</li>
+    <li>OpenInTerminalLite: Open source finder menu shortcut to open current directory in Teminal - https://github.com/Ji4n1ng/OpenInTerminal</li>
+    <li>PopClip: An iOS style copy/paste and more shortcut that appears when text is selected - https://pilotmoon.com/popclip/</li>
+    <li>SMCFanControler: An open source fan speed controller - https://github.com/hholtmann/smcFanControl</li>
   </ul>
   
   <h3>Writing</h3>
