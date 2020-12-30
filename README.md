@@ -85,6 +85,7 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
   </ul>
   
 <h3 id="alfred-1">Alfred 4 Setup</h3>
+<h3>Here is my Alfred theme: https://github.com/marmmaz/Alfred/blob/master/Dark%20V2.alfredappearance</h3>
 <p>Here are the workflows (plugins) I use:</p>
   <ul>
     <li>Aphetamine Switch: Toggle Amphetamine on/off.</li>
