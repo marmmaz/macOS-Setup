@@ -30,6 +30,14 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
    <li>Adobe InDesign: Layout design & desktop publishing - https://www.adobe.com/products/indesign.html</li>
    <li>Adobe Photoshop: Photo, image & design editing - https://www.adobe.com/products/photoshop.html</li>
  </ul>
+ 
+ <h3>Media</h3>
+ <ul>
+  <li>Apple Books: Ebook reader</li>
+  <li>Calibre: Ebook managment: https://www.google.com/search?client=firefox-b-d&q=calibre</li>
+  <li>IINA: Open source media player - https://iina.io/</li>
+  <li>Spotify: Music streaming - https://www.spotify.com/</li>
+  </ul>
    
 <h3>Productivity</h3>
   <ul>
