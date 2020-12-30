@@ -134,3 +134,11 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
     <li>uBlock Origin: Efficient adblocker.</li>
     <li>View Image: Re-implements Google's "View Image" & "Search by Image".</li>
    </ul>
+
+<p>Here are the Tampermonkey Scripts I use:</p>
+<ul>
+  <li>Absolute Enable Right Clich & Copy: Enables right click and copy everywhere.</li>
+  <li>Newspaper Paywall Bypasser: Bypass paywalls.</li>
+  <li>Resize YT to Window Size: Video will take up entire Window.</li>
+ </ul>
+  
