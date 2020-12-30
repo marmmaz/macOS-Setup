@@ -101,7 +101,7 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
  
  <p>I run a custom userChrome.css: <br>
   <ul>
-    <li> https://github.com/marmmaz/FirefoxCSS/blob/master/userChrome.css</li> <br>
+    <li> https://github.com/marmmaz/FirefoxCSS/blob/master/userChrome.css</li>
     <li>https://imgur.com/a/oqB7AzV</li>
     </p>
  
