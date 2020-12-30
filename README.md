@@ -4,7 +4,7 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
 
 <p>If it makes sense, i'll eventually create a website to properly showcase everything.<br>
 
-<p>⚡️ must haves  |  💰 paid  |  🔄 subscription  |  ✅ free </p>
+<p>⚡️ must haves  &nbsp;&nbsp;|  💰 paid  |  🔄 subscription  |  ✅ free </p>
 
 <h2>Software</h2>
 
