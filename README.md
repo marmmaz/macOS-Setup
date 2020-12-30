@@ -51,7 +51,7 @@ I added a ⚡️ next to my absolute must haves.
 <h3>
 <h3>Security</h3>
   <ul>
-    <li>Bitwarden: Opensource password anager - https://bitwarden.com/ ⚡️ </li>
+    <li>Bitwarden: Opensource password manager - https://bitwarden.com/ ⚡️ </li>
     <li>Hosts File Adblock List: I use this list to block ads system wide - https://someonewhocares.org/hosts/ ⚡️ </li>
     <li>Micro Snitch: A microphone & camera activity monitor - https://www.obdev.at/products/microsnitch/index.html</li>
     <li>NordVPN: A VPN service - https://nordvpn.com</li>
