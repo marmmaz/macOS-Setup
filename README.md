@@ -13,7 +13,7 @@ I added a ⚡️ next to my absolute must haves.
 <h3>Browsers</h3>
   <ul>
     <li>Brave: A chromium based browser - https://brave.com/ ⚡️ </li>
-    <li> <a href="#firefox-1">Firefox (setup):</a> The king of browsers - https://www.mozilla.org/en-US/firefox/new/</li>
+    <li> <a href="#firefox-1">Firefox (setup):</a> The king of browsers - https://www.mozilla.org/en-US/firefox/new/ ⚡️ </li>
   </ul>
   
 <h3>Communication</h3>
