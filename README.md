@@ -4,7 +4,7 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
 
 <p>If it makes sense, i'll eventually create a website to properly showcase everything.<br>
 
-<p>⚡️ = my absolute must haves.</p>
+<p>⚡️ = my absolute must haves. 💰 = premium tools. ✅ = free tools.</p>
 <p>💰 = premium tools.</p>
 <p>✅ = free tools.</p>
   
