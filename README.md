@@ -100,8 +100,10 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
  <h3 id="firefox-1">Firefox Setup</h3>
  
  <p>I run a custom userChrome.css: <br>
-  https://github.com/marmmaz/FirefoxCSS/blob/master/userChrome.css <br>
-  https://imgur.com/a/oqB7AzV</p>
+  <ul>
+    <li> https://github.com/marmmaz/FirefoxCSS/blob/master/userChrome.css</li> <br>
+    <li>https://imgur.com/a/oqB7AzV</li>
+    </p>
  
 <p>Here are the Firefox addons I use:</p>
    <ul>
