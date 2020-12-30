@@ -5,7 +5,7 @@
 The purpose of this file is to have a detailed *backup* of the macOS setup I've put together after lots of testing so that if/when I upgrade my mac, i'll know *exactly what to do.*
 
 <p>If it makes sense, i'll eventually create a website to properly showcase my setup.
-If you'd like to see that happen, feel free to motivate me with a cup of coffee -> https://www.buymeacoffee.com/marmmaz</p>
+If you'd like to see that happen, feel free to motivate me with a cup of coffee -> <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="marmmaz" data-color="#BD5FFF" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script></p>
 
 <h2>Software</h2>
 
