@@ -12,7 +12,7 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
 <h3>Browsers</h3>
   <ul>
     <li>Brave: A chromium based browser - https://brave.com/</li>
-    <li>Firefox: The king of browsers - https://www.mozilla.org/en-US/firefox/new/</li>
+    <li> <a href="#firefox-1">Firefox (setup):</a> The king of browsers - https://www.mozilla.org/en-US/firefox/new/</li>
   </ul>
   
 <h3>Communication</h3>
@@ -26,9 +26,10 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
 
 <h3>Creative</h3>
 <ul>
-   <li>Adobe Illustrator:
-   <li>Adobe InDesign:
-   <li>Adobe Photoshop:
+   <li>Adobe Illustrator: Vector graphics - https://www.adobe.com/products/illustrator.html</li>
+   <li>Adobe InDesign: Layout design & desktop publishing - https://www.adobe.com/products/indesign.html</li>
+   <li>Adobe Photoshop: Photo, image & design editing - https://www.adobe.com/products/photoshop.html</li>
+ </ul>
    
 <h3>Productivity</h3>
   <ul>
@@ -93,4 +94,10 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
   <li>TimeZones: View different timezones.</li>
   <li>Uninstall with AppCleaner: Quickly uninstall apps with AppCleaner.</li>
   <li>Wi-Fi: Toggle Wi-Fi on/off.</li>
+ </ul>
+ 
+ <h3 id="firefox-1">Firefox Setup</h3>
+<p>Here are the Firefox addons I use:</p>
+<ul>
+  
  </ul>
