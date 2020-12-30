@@ -44,6 +44,7 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
 <h3>Security</h3>
   <ul>
     <li>Bitwarden: Opensource <b>password</b> manager - https://bitwarden.com/</li>
+    <li>Hosts File Adblock List: I use this list to <b>block ads system wide</b> - https://someonewhocares.org/hosts/</li>
     <li>Micro Snitch: A microphone & camera activity <b>monitor</b> - https://www.obdev.at/products/microsnitch/index.html</li>
     <li>NordVPN: A <b>VPN</b> service - https://nordvpn.com</li>
     <li>Windscribe: VPN service with <b>free 10gb/month</b> - https://windscribe.com</li>
