@@ -2,10 +2,10 @@
 
 <h1>My macOS setup</h1>
 
-The purpose of this file is to have a detailed *backup* of the macOS setup I've put together after lots of testing so that if/when I upgrade my mac, i'll know *exactly what to do.*
+The purpose of this file is to have a backup of my ideal macOS setup so that if/when I upgrade my mac, i'll know exactly what to do.
 
-<p>If it makes sense, i'll eventually create a website to properly showcase my setup.<br>
-If you'd like to see that happen, feel free to buy me a cup of coffee -> https://www.buymeacoffee.com/marmmaz</p>
+<p>If it makes sense, i'll eventually create a website to properly showcase everything.<br>
+If you'd like to see that happen, feel free to buy me a cup of coffee, or not 😉 -> https://www.buymeacoffee.com/marmmaz</p>
 
 <h2>Software</h2>
 
