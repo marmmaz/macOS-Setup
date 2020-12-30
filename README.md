@@ -5,7 +5,6 @@
 The purpose of this file is to have a backup of my ideal macOS setup so that if/when I upgrade my mac, i'll know exactly what to do.
 
 <p>If it makes sense, i'll eventually create a website to properly showcase everything.<br>
-If you'd like to see that happen, feel free to buy me a cup of coffee, or not 😉 -> https://www.buymeacoffee.com/marmmaz</p>
 I added a ⚡️ next to my absolute must haves.
 
 <h2>Software</h2>
