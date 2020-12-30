@@ -18,10 +18,10 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
 <h3>Communication</h3>
 <ul>
     <li>Colloquy: IRC Client - https://github.com/colloquy/colloquy</li>
-    <li>Discord: Feauture packed <b>VoIP</b> client with endless interesting serves - https://discord.com/</li>
-    <li>Microsoft Outlook: <b>E-mail</b> client of choice - https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook</li>
-    <li>Signal: <b>End-to-end encrypted</b> messaging service - https://signal.org/#signal</li>
-    <li>Whatsapp Desktop: macOS <b>Whatsapp</b> wrapper - https://www.whatsapp.com/download</li>
+    <li>Discord: Feauture packed VoIP client with endless interesting serves - https://discord.com/</li>
+    <li>Microsoft Outlook: E-mail client of choice - https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook</li>
+    <li>Signal: End-to-end encrypted messaging service - https://signal.org/#signal</li>
+    <li>Whatsapp Desktop: macOS Whatsapp wrapper - https://www.whatsapp.com/download</li>
 </ul>
 
 <h3>Creative</h3>
@@ -41,17 +41,17 @@ If it makes sense, i'll eventually create a website to properly showcase my setu
    
 <h3>Productivity</h3>
   <ul>
-    <li> <a href="#alfred-1">Alfred 4 (setup):</a> A <b>superior</b> Spotlight replacment - https://www.alfredapp.com/</li>
-    <li>AltTab: An <b>open source</b>, windows style tab switcher - https://alt-tab-macos.netlify.app/</li>
-    <li>BetterTouchTool: An <b>indispensible</b> input modifier allowing you to take advantage of gestures+hotkeys - https://folivora.ai/</li>
-    <li>Dropzone 4: A menubar drag and drop <b>enhancer</b> - https://aptonic.com/</li>
-    <li>Grid: A window manager with <b>gesture</b> support - https://macgrid.app/</li>
+    <li> <a href="#alfred-1">Alfred 4 (setup):</a> A superior Spotlight replacment - https://www.alfredapp.com/</li>
+    <li>AltTab: An open source, windows style tab switcher - https://alt-tab-macos.netlify.app/</li>
+    <li>BetterTouchTool: An indispensible input modifier allowing you to take advantage of gestures+hotkeys - https://folivora.ai/</li>
+    <li>Dropzone 4: A menubar drag and drop enhancer - https://aptonic.com/</li>
+    <li>Grid: A window manager with gesture support - https://macgrid.app/</li>
   </ul>
   
 <h3>
 <h3>Security</h3>
   <ul>
-    <li>Bitwarden: Opensource <b>password</b> manager - https://bitwarden.com/</li>
+    <li>Bitwarden: Opensource password anager - https://bitwarden.com/</li>
     <li>Hosts File Adblock List: I use this list to <b>block ads system wide</b> - https://someonewhocares.org/hosts/</li>
     <li>Micro Snitch: A microphone & camera activity <b>monitor</b> - https://www.obdev.at/products/microsnitch/index.html</li>
     <li>NordVPN: A <b>VPN</b> service - https://nordvpn.com</li>
