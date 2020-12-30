@@ -3,7 +3,12 @@
 The purpose of this file is to have a backup of my ideal macOS setup so that if/when I upgrade my mac, i'll know exactly what to do.
 
 <p>If it makes sense, i'll eventually create a website to properly showcase everything.<br>
-I added a ⚡️ next to my absolute must haves.
+I added:
+<ul>
+  <li>⚡️ next to my absolute must haves.</li>
+  <li>💰 next to premium tools.</li>
+  <li>✅ next to free tools</li>
+  </ul>
 
 <h2>Software</h2>
 
