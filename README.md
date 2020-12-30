@@ -4,7 +4,7 @@
 
 The purpose of this file is to have a detailed *backup* of the macOS setup I've put together after lots of testing so that if/when I upgrade my mac, i'll know *exactly what to do.*
 
-<p>If it makes sense, i'll eventually create a website to properly showcase my setup.
+<p>If it makes sense, i'll eventually create a website to properly showcase my setup.<br>
 If you'd like to see that happen, feel free to buy me a cup of coffee -> https://www.buymeacoffee.com/marmmaz</p>
 
 <h2>Software</h2>
