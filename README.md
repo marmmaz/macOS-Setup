@@ -2,10 +2,10 @@
 
 <h1>My macOS setup</h1>
 
-The purpose of this repo is to have a detailed *backup* of all the software and tweaks I use so that if/when I upgrade my mac, i'll know *exactly what to do.*
+The purpose of this file is to have a detailed *backup* of the macOS setup I've put together after lots of testing so that if/when I upgrade my mac, i'll know *exactly what to do.*
 
-<p>This is odd, but if you're so inclined feel free to buy me a cup of coffee -> https://www.buymeacoffee.com/marmmaz<br>
-If it makes sense, i'll eventually create a website to properly showcase my setup.</p>
+<p>If it makes sense, i'll eventually create a website to properly showcase my setup.
+If you'd like to see that happen, feel free to motivate me with a cup of coffee -> https://www.buymeacoffee.com/marmmaz</p>
 
 <h2>Software</h2>
 
