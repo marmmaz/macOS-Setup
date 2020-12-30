@@ -18,7 +18,7 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
 <ul>
     <li>Colloquy: IRC Client - https://github.com/colloquy/colloquy ✅</li>
     <li>Discord: Feauture packed VoIP client with endless interesting serves - https://discord.com/ ⚡️ | ✅</li>
-    <li>Microsoft Outlook: E-mail client of choice - https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ⚡️ 💰</li>
+    <li>Microsoft Outlook: E-mail client of choice - https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ⚡️ | 💰</li>
     <li>Signal: End-to-end encrypted messaging service - https://signal.org/#signal ⚡️ | ✅</li>
     <li>Whatsapp Desktop: macOS Whatsapp wrapper - https://www.whatsapp.com/download ⚡️ | ✅</li>
 </ul>
