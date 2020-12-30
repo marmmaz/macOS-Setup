@@ -67,7 +67,7 @@ I added a ⚡️ next to my absolute must haves.
     <li>Dropbox: Cloud storage - https://dropbox.com ⚡️ </li>
     <li>Google Drive: Cloud Storage - https://www.google.com/intl/en_in/drive/ ⚡️ </li>
     <li>Keka: Data decompression utility - https://www.keka.io/en/</li>
-    <li><a href="#macforge-1">MacForge:</a> macOS plugin manager - https://www.macenhance.com/macforge</li>
+    <li><a href="#macforge-1">MacForge (setup):</a> macOS plugin manager - https://www.macenhance.com/macforge</li>
     <li>Monosnap: A supercharged screenshot tool - https://monosnap.com/</li>
     <li>Numi: An all-in-one calculator & converter that understands text based questions - https://numi.app/</li>
     <li>OpenInTerminalLite: Open source finder menu shortcut to open current directory in Teminal - https://github.com/Ji4n1ng/OpenInTerminal</li>
