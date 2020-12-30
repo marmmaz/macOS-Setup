@@ -51,7 +51,7 @@ I added a ⚡️ next to my absolute must haves.
 <h3>
 <h3>Security</h3>
   <ul>
-    <li>Bitwarden: Opensource password anager - https://bitwarden.com/ ⚡️ </li>
+    <li>Bitwarden: Open source password manager - https://bitwarden.com/ ⚡️ </li>
     <li>Hosts File Adblock List: I use this list to block ads system wide - https://someonewhocares.org/hosts/ ⚡️ </li>
     <li>Micro Snitch: A microphone & camera activity monitor - https://www.obdev.at/products/microsnitch/index.html</li>
     <li>NordVPN: A VPN service - https://nordvpn.com</li>
@@ -66,9 +66,10 @@ I added a ⚡️ next to my absolute must haves.
     <li>Bartender 4: Hide menubar items - https://www.macbartender.com/</li>
     <li>BetterDiscord: Customize Discord & install plugins: https://betterdiscord.net</li>
     <li>cDock: A dock customizer - https://www.macenhance.com/cdock ⚡️ </li>
-  <li>Dropbox: Cloud storage - https://dropbox.com ⚡️ </li>
+    <li>Dropbox: Cloud storage - https://dropbox.com ⚡️ </li>
     <li>Google Drive: Cloud Storage - https://www.google.com/intl/en_in/drive/ ⚡️ </li>
     <li>Keka: Data decompression utility - https://www.keka.io/en/</li>
+    <li>MacForge: macOS plugin manager - https://www.macenhance.com/macforge</li>
     <li>Monosnap: A supercharged screenshot tool - https://monosnap.com/</li>
     <li>Numi: An all-in-one calculator & converter that understands text based questions - https://numi.app/</li>
     <li>OpenInTerminalLite: Open source finder menu shortcut to open current directory in Teminal - https://github.com/Ji4n1ng/OpenInTerminal</li>
