@@ -71,6 +71,7 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
     <li><a href="#macforge-1">MacForge (setup):</a> macOS plugin manager - https://www.macenhance.com/macforge ✅</li>
     <li>Monosnap: A supercharged screenshot tool - https://monosnap.com/ 💰</li>
     <li>Numi: An all-in-one calculator & converter that understands text based questions - https://numi.app/ ✅</li>
+    <li>OwnOCR: Capture text from anything - https://owlocr.com/ ✅</li>
     <li>OpenInTerminalLite: Open source finder menu shortcut to open current directory in Teminal - https://github.com/Ji4n1ng/OpenInTerminal ✅</li>
     <li>PopClip: An iOS style copy/paste and more shortcut that appears when text is selected - https://pilotmoon.com/popclip/ ⚡️ | 💰</li>
     <li>SMCFanControler: An open source fan speed controller - https://github.com/hholtmann/smcFanControl ⚡️ | ✅</li>
