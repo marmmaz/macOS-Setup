@@ -110,9 +110,9 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
  
  <h3 id="firefox-1">Firefox Setup</h3>
  
- <p>I run a custom userChrome.css: <br>
+ <p>I run a custom theme <br>
   <ul>
-    <li>Code: https://github.com/marmmaz/FirefoxCSS/blob/master/userChrome.css ⚡️ | ✅</li>
+    <li>Theme: https://github.com/marmmaz/FirefoxCSS ⚡️ | ✅</li>
     <li>Screenshot: https://imgur.com/a/oqB7AzV</li>
   </ul>
     </p>
