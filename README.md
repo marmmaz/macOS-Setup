@@ -120,6 +120,7 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
 <p>Here are the Firefox addons I use:</p>
    <ul>
     <li>Bitwarden: Open source password manager. ⚡️ | ✅</li>
+    <li>ClearURLs: Remove tracking elements from URLs. ✅</li>
     <li>Dark Reader: Dark mode for every website. ✅</li>
     <li>Decentraleyes: Protection against trackers. ✅</li>
     <li>Firefox Color: Firefox Theming. ✅</li>
@@ -127,13 +128,16 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
     <li>Group Speed Dial: Custom speed dial/tab page. ⚡️ | ✅</li>
     <li>HTTPS Everywhere: Automatically use HTTPS. ✅</li>
     <li>I don't care about cookies: Remove EU cookies warning. ✅</li>
+    <li>Nano Defender: Adblocking. ✅</li>
     <li>Privacy Badger: Block trackers. ✅</li>
     <li>Reddit Enhancment Suite: Enchance the Reddit experience. ✅</li>
+    <li>SponsorBlock for Youtube: Skip sponsorships and more. ✅</li>
     <li>Tampermonkey: Userscropt manager. ⚡️ | ✅</li>
     <li>Translate Web Pages: Real time page translation. ✅</li>
     <li>Tree Style Tab: Show tabs like a tree. ✅</li>
     <li>uBlock Origin: Efficient adblocker. ⚡️ | ✅</li>
     <li>View Image: Re-implements Google's "View Image" & "Search by Image". ✅</li>
+    <li>Youtube Watchmarker: Automatically mark watched Youtube videos. ✅</li>
    </ul>
 
 <p>Here are the Tampermonkey Scripts I use:</p>
