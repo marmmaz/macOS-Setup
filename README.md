@@ -40,11 +40,11 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
    
 <h3>Productivity</h3>
   <ul>
-    <li> <a href="#alfred-1">Alfred (setup):</a> A superior Spotlight replacment - https://www.alfredapp.com/ ⚡️ | 💰=</li>
+    <li> <a href="#alfred-1">Alfred (setup):</a> A superior Spotlight replacment - https://www.alfredapp.com/ ⚡️ | 💰</li>
     <li>AltTab: An open source, windows style tab switcher - https://alt-tab-macos.netlify.app/ ⚡️ | ✅ </li>
     <li>BetterTouchTool: An indispensible input modifier allowing you to take advantage of gestures+hotkeys - https://folivora.ai/ ⚡️ | 💰</li>
     <li>Dropzone 4: A menubar drag and drop enhancer - https://aptonic.com/ 💰</li>
-    <li>Grid: A window manager with gesture support - https://macgrid.app/ ⚡️ | 💰</li>
+    <li>Grid: A window manager with gesture support - https://macgrid.app/ 💰</li>
   </ul>
   
 <h3>
