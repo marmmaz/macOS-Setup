@@ -113,7 +113,8 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
  <p>I run a custom theme <br>
   <ul>
     <li>Theme: https://github.com/marmmaz/FirefoxCSS ⚡️ | ✅</li>
-    <li>Screenshot: https://i.imgur.com/8WhRkgb.png</li>
+    <li>Startpage setup: https://github.com/marmmaz/Group-Speed-Dial ⚡️ | ✅</li>
+    <li>Screenshot: https://i.imgur.com/CY2Dhkn.png</li>
   </ul>
     </p>
  
