@@ -137,7 +137,7 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
     <li>Translate Web Pages: Real time page translation. ✅</li>
     <li>Tree Style Tab: Show tabs like a tree. ✅</li>
     <li>uBlock Origin: Efficient adblocker. ⚡️ | ✅</li>
-    <li>View Image: Re-implements Google's "View Image" & "Search by Image". ✅</li>
+    <li>View Image: Adds Google's "View Image" & "Search by Image". ✅</li>
     <li>Youtube Watchmarker: Automatically mark watched Youtube videos. ✅</li>
    </ul>
 
