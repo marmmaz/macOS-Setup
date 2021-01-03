@@ -131,7 +131,7 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
     <li>I don't care about cookies: Remove EU cookies warning. ✅</li>
     <li>Nano Defender: Adblocking. ✅</li>
     <li>Privacy Badger: Block trackers. ✅</li>
-    <li>Reddit Enhancment Suite: Enchance the Reddit experience. ✅</li>
+    <li>Reddit Enhancment Suite: Enhance the Reddit experience. ✅</li>
     <li>SponsorBlock for Youtube: Skip sponsorships and more. ✅</li>
     <li>Tampermonkey: Userscropt manager. ⚡️ | ✅</li>
     <li>Translate Web Pages: Real time page translation. ✅</li>
