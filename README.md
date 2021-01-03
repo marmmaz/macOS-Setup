@@ -17,7 +17,7 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
 <h3>Communication</h3>
 <ul>
     <li>Colloquy: IRC Client - https://github.com/colloquy/colloquy ✅</li>
-    <li>Discord: Feauture packed VoIP client with endless interesting serves - https://discord.com/ ⚡️ | ✅</li>
+    <li>Discord: Feature packed VoIP client with endless interesting serves - https://discord.com/ ⚡️ | ✅</li>
     <li>Microsoft Outlook: E-mail client of choice - https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook ⚡️ | 💰</li>
     <li>Signal: End-to-end encrypted messaging service - https://signal.org/#signal ⚡️ | ✅</li>
     <li>Whatsapp Desktop: macOS Whatsapp wrapper - https://www.whatsapp.com/download ⚡️ | ✅</li>
@@ -33,16 +33,16 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
  <h3>Media</h3>
  <ul>
   <li>Apple Books: Ebook reader ⚡️ </li>
-  <li>Calibre: Ebook managment: https://www.google.com/search?client=firefox-b-d&q=calibre ⚡️ | ✅</li>
+  <li>Calibre: Ebook management: https://www.google.com/search?client=firefox-b-d&q=calibre ⚡️ | ✅</li>
   <li>IINA: Open source media player - https://iina.io/ ⚡️ | ✅</li>
   <li>Spotify: Music streaming - https://www.spotify.com/ ⚡️ | 💰</li>
   </ul>
    
 <h3>Productivity</h3>
   <ul>
-    <li> <a href="#alfred-1">Alfred (setup):</a> A superior Spotlight replacment - https://www.alfredapp.com/ ⚡️ | 💰</li>
+    <li> <a href="#alfred-1">Alfred (setup):</a> A superior Spotlight replacement - https://www.alfredapp.com/ ⚡️ | 💰</li>
     <li>AltTab: An open source, windows style tab switcher - https://alt-tab-macos.netlify.app/ ⚡️ | ✅ </li>
-    <li>BetterTouchTool: An indispensible input modifier allowing you to take advantage of gestures+hotkeys - https://folivora.ai/ ⚡️ | 💰</li>
+    <li>BetterTouchTool: An indispensable input modifier allowing you to take advantage of gestures+hotkeys - https://folivora.ai/ ⚡️ | 💰</li>
     <li>Dropzone 4: A menubar drag and drop enhancer - https://aptonic.com/ 💰</li>
     <li>Grid: A window manager with gesture support - https://macgrid.app/ 💰</li>
   </ul>
@@ -81,7 +81,7 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
   <ul>
     <li>Apple Notes: My note taking app of choice ⚡️ | ✅</li>
     <li>Atom: Open Source text & code editor - https://atom.io/ ✅</li>
-    <li>Microsoft Word: My word proccessor of choice - https://www.microsoft.com/en/microsoft-365/word ⚡️ | 💰</li>
+    <li>Microsoft Word: My word processor of choice - https://www.microsoft.com/en/microsoft-365/word ⚡️ | 💰</li>
     <li>Typora: Markdown editor - https://typora.io/ ✅</li>
   </ul>
   
@@ -89,7 +89,7 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
 <p>Here is my Alfred theme: https://github.com/marmmaz/Alfred/blob/master/Dark%20V2.alfredappearance ✅</p>
 <p>Here are the workflows (plugins) I use:</p>
   <ul>
-    <li>Aphetamine Switch: Toggle Amphetamine on/off. ✅</li>
+    <li>Amphetamine Switch: Toggle Amphetamine on/off. ✅</li>
     <li>Bluetooth Connect: Quick connect to preconfigured bluetooth devices. ✅</li>
     <li>Bluetooth Control: Toggle bluetooth on/off. ✅</li>
     <li>Convert: All-in-one converter (units, currency, etc.). ⚡️ | ✅</li>
@@ -97,12 +97,12 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
     <li>Display Brightness: Display brightness control % control. ✅</li>
     <li>Faker: Generate fake data (email, names, address, text, etc.). ✅</li>
     <li>Fixum: Fixes broken workflows. ✅</li>
-    <li>Kill Process: Quickly kill proccess'. ⚡️ | ✅</li>
+    <li>Kill Process: Quickly kill process'. ⚡️ | ✅</li>
     <li>Last Changed Files: View last changed files. ⚡️ | ✅</li>
     <li>Lorem Lpsum: Text generator. ✅</li>
     <li>Movie and TV Show Search: Search Movies & TV Shows. ✅</li>
     <li>Search Notes: Search within Apple Notes. ✅</li>
-    <li>TempraryEmail: Open up a temporary email address. ✅</li>
+    <li>TemporaryEmail: Open up a temporary email address. ✅</li>
     <li>TimeZones: View different timezones. ✅</li>
     <li>Uninstall with AppCleaner: Quickly uninstall apps with AppCleaner. ⚡️ | ✅</li>
     <li>Wi-Fi: Toggle Wi-Fi on/off. ✅</li>
@@ -131,7 +131,7 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
     <li>I don't care about cookies: Remove EU cookies warning. ✅</li>
     <li>Nano Defender: Adblocking. ✅</li>
     <li>Privacy Badger: Block trackers. ✅</li>
-    <li>Reddit Enhancment Suite: Enhance the Reddit experience. ✅</li>
+    <li>Reddit Enhancement Suite: Enhance the Reddit experience. ✅</li>
     <li>SponsorBlock for Youtube: Skip sponsorships and more. ✅</li>
     <li>Tampermonkey: Userscropt manager. ⚡️ | ✅</li>
     <li>Translate Web Pages: Real time page translation. ✅</li>
