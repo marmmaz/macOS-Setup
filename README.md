@@ -33,7 +33,7 @@ The purpose of this file is to have a backup of my ideal macOS setup so that if/
  <h3>Media</h3>
  <ul>
   <li>Apple Books: Ebook reader ⚡️ </li>
-  <li>Calibre: Ebook management: https://www.google.com/search?client=firefox-b-d&q=calibre ⚡️ | ✅</li>
+  <li>Calibre: Ebook management: https://calibre-ebook.com/ ⚡️ | ✅</li>
   <li>IINA: Open source media player - https://iina.io/ ⚡️ | ✅</li>
   <li>Spotify: Music streaming - https://www.spotify.com/ ⚡️ | 💰</li>
   </ul>
